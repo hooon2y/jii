@@ -100,3 +100,11 @@ Carthage/Build.rbenv-vars
 ####
 # rbenv
 .rbenv-vars
+
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
