@@ -2,7 +2,8 @@
 //  9_5.cpp
 //  dojang
 //
-//  Created by Joanne Leem on 07/09/2019.
+//  Created by Joanne Leem on 10/09/2019.
+//  Copyright © 2019 Joanne Leem. All rights reserved.
 //
 
 #include <stdio.h>
